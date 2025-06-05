@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PJ-06/static/css/main.086689fb.css",
+    "main.js": "/PJ-06/static/js/main.37e751d0.js",
+    "static/media/article_mock.jpg": "/PJ-06/static/media/article_mock.29504bfb6a8043130094.jpg",
+    "static/media/main_enter.png": "/PJ-06/static/media/main_enter.113c56cd5966fbac46e7.png",
+    "index.html": "/PJ-06/index.html",
+    "static/media/select.svg": "/PJ-06/static/media/select.76881d548b982a41539b.svg",
+    "main.086689fb.css.map": "/PJ-06/static/css/main.086689fb.css.map",
+    "main.37e751d0.js.map": "/PJ-06/static/js/main.37e751d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.086689fb.css",
+    "static/js/main.37e751d0.js"
+  ]
+}
