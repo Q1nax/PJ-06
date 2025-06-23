@@ -35,9 +35,9 @@ function Form() {
                 />
             </div>
             <form className='autho_form'>
-                    <span className='authorization-item'>Логин или номер телефона:</span>
+                    <span className='authorization-item'>Логин или номер телефона: (для тестового доступа: sf_student1)</span>
                     <input className='autho-input' type='text' name='login' placeholder='' onChange={(e) => {setLoginValue(e.target.value)}} required/>
-                    <span className='authorization-item'>Пароль:</span>
+                    <span className='authorization-item'>Пароль: (для тестового доступа: 4i2385j)</span>
                     <input className='autho-input' type='password' name='password' placeholder='' onChange={(e) => {setPasswordValue(e.target.value)}} required/>
             </form>
             <Button
